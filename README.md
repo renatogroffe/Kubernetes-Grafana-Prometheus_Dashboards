@@ -62,3 +62,14 @@ Diferentes visões a nível de Pod.
 Link: https://grafana.com/grafana/dashboards/17684-kubernetes-pod-overview/
 
 ![alt](img/k8s-pod-overview-01.png)
+
+---
+
+## Kubernetes Deployment Dashboard
+
+Diferentes visões por Deployment.
+
+Link: https://grafana.com/grafana/dashboards/20161-kubernetes-deployment-dashboard/
+
+![alt](img/k8s-deploy-dash.png)
+
