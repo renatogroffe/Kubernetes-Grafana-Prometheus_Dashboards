@@ -5,7 +5,26 @@ Marketplace: https://grafana.com/grafana/dashboards/?search=kubernetes&orderBy=u
 
 ---
 
-## Kubernetes Dashboard By Chever
+
+## Dashboards do projeto grafana-dashboards-kubernetes
+
+Link do projeto no GitHub: https://github.com/dotdc/grafana-dashboards-kubernetes
+
+### Kubernetes / Views / Namespaces
+
+Útil inclusive para visualizar em que momento um workload escala.
+
+Link: https://grafana.com/grafana/dashboards/15758-kubernetes-views-namespaces/
+
+![alt](img/k8s-views-ns-01.png)
+
+
+
+---
+
+## Outros Dashboards
+
+### Kubernetes Dashboard By Chever
 
 Útil em consultas envolvendo métricas de Pods.
 
@@ -15,17 +34,7 @@ Link: https://grafana.com/grafana/dashboards/22237-kubernetes-dashboard-by-cheve
 
 ---
 
-## Kubernetes / Views / Namespaces
-
-Útil inclusive para visualizar em que momento um workload escala.
-
-Link: https://grafana.com/grafana/dashboards/15758-kubernetes-views-namespaces/
-
-![alt](img/k8s-views-ns-01.png)
-
----
-
-## Cluster / Global performance
+### Cluster / Global performance
 
 Visão geral do consumo de CPU e memória em um cluster.
 
@@ -35,7 +44,7 @@ Link: https://grafana.com/grafana/dashboards/21839-cluster-global-performance/
 
 ---
 
-## Kubernetes Overview
+### Kubernetes Overview
 
 Visão geral de diferentes elementos de um cluster.
 
@@ -45,7 +54,7 @@ Link: https://grafana.com/grafana/dashboards/21410-kubernetes-overview/
 
 ---
 
-## Kubernetes Pod Dashboard
+### Kubernetes Pod Dashboard
 
 Métricas a nível de Pod.
 
@@ -55,7 +64,7 @@ Link: https://grafana.com/grafana/dashboards/21298-kubernetes-pod-dashboard/
 
 ---
 
-##  Kubernetes - Pod Overview
+###  Kubernetes - Pod Overview
 
 Diferentes visões a nível de Pod.
 
@@ -65,11 +74,10 @@ Link: https://grafana.com/grafana/dashboards/17684-kubernetes-pod-overview/
 
 ---
 
-## Kubernetes Deployment Dashboard
+### Kubernetes Deployment Dashboard
 
 Diferentes visões por Deployment.
 
 Link: https://grafana.com/grafana/dashboards/20161-kubernetes-deployment-dashboard/
 
 ![alt](img/k8s-deploy-dash.png)
-
