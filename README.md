@@ -42,6 +42,16 @@ Link: https://grafana.com/grafana/dashboards/15759-kubernetes-views-nodes/
 
 ---
 
+### Kubernetes / Views / Pods
+
+Diferentes insights a nível de Pod(s).
+
+Link: https://grafana.com/grafana/dashboards/15760-kubernetes-views-pods/
+
+![alt text](img/k8s-views-pods-01.png)
+
+---
+
 ## Outros Dashboards
 
 Diferentes alternativas de dashboard que dependem do Prometheus e que foram testas com o Azure Kubernetes Service (AKS).
