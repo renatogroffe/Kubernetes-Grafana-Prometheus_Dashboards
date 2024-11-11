@@ -30,7 +30,15 @@ Link: https://grafana.com/grafana/dashboards/15758-kubernetes-views-namespaces/
 
 ![alt](img/k8s-views-ns-01.png)
 
+---
 
+### Kubernetes / Views / Nodes
+
+Visões com os diferentes elementos de um Node.
+
+Link: https://grafana.com/grafana/dashboards/15759-kubernetes-views-nodes/
+
+![alt text](img/k8s-views-nodes-01.png)
 
 ---
 
