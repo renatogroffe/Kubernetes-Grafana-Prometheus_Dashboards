@@ -10,6 +10,18 @@ Marketplace: https://grafana.com/grafana/dashboards/?search=kubernetes&orderBy=u
 
 Link do projeto no GitHub: https://github.com/dotdc/grafana-dashboards-kubernetes
 
+---
+
+### Kubernetes / Views / Global
+
+Traz informações sobre os diferentes elementos de um cluster.
+
+Link: https://grafana.com/grafana/dashboards/15757-kubernetes-views-global/
+
+![alt](img/k8s-views-global-01.png)
+
+---
+
 ### Kubernetes / Views / Namespaces
 
 Útil inclusive para visualizar em que momento um workload escala.
@@ -23,6 +35,8 @@ Link: https://grafana.com/grafana/dashboards/15758-kubernetes-views-namespaces/
 ---
 
 ## Outros Dashboards
+
+Diferentes alternativas de dashboard que dependem do Prometheus e que foram testas com o Azure Kubernetes Service (AKS).
 
 ### Kubernetes Dashboard By Chever
 
